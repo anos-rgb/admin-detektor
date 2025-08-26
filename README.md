@@ -20,7 +20,7 @@ Advanced SA-MP administration detection system with real-time monitoring and ale
 ## 🔧 Installation
 
 1. Ensure you have **MonetLoader** installed on Android
-2. Place `admin_detector.lua` in `MonetLoader/scripts/` folder
+2. Place `admin_detector.lua` in `/storage/emulated/0/Android/media/ro.alyn_sampmobile.game/monetloader/` folder
 3. Launch GTA SA and connect to SA-MP server
 4. Script auto-loads with notification
 
